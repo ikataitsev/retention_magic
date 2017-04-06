@@ -1,5 +1,5 @@
 require "chartkick"
-require "bootstrap-sass"
+#require "bootstrap-sass"
 
 module RetentionMagic
   class Engine < ::Rails::Engine
